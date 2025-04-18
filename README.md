@@ -22,7 +22,8 @@ An MCP server implementation that integrates the Sonar API to provide Claude wit
 Clone this repository:
 
 ```bash
-git clone git@github.com:ppl-ai/modelcontextprotocol.git
+# git clone git@github.com:ppl-ai/modelcontextprotocol.git
+git clone https://github.com/ppl-ai/modelcontextprotocol.git
 ```
 
 Navigate to the `perplexity-ask` directory and install the necessary dependencies:
